@@ -6,7 +6,7 @@ author:
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
-abstract: ""
+abstract: "This is about marriage in Toronto from 2018 to current year."
 format: pdf
 number-sections: true
 bibliography: references.bib
